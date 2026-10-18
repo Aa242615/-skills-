@@ -1,0 +1,2 @@
+# -skills-
+这个skills是根据中南大学研究生论文汇报工作使用AI迭代生成的skills，导入一篇论文给skills即可帮你生成包括ppt/idea等在内的交付文件
